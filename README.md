@@ -48,3 +48,5 @@ Hal-hal yang perlu diperhatikan
 * Jadwal ini sementara hanya bisa untuk Kota/Kabupaten Ngawi 
 
 # screenshot 
+![image](https://github.com/andihasan97/hisab-sholat-ephemeris-1.0.2/blob/main/screenshot/Screenshot_20221006_035410.jpg)
+![image](https://github.com/andihasan97/hisab-sholat-ephemeris-1.0.2/blob/main/screenshot/Screenshot_20221006_035442.jpg)
